@@ -1,0 +1,64 @@
+{1:"""Why did an old man fall in a well?
+Because he couldn’t see that well!""", 
+2:"""Why did the actor fall through the floorboards?
+They were going through a stage!""", 
+3:"""Why did a scarecrow win a Nobel prize?
+He was outstanding in his field!""", 
+4:"""What did one toilet say to the other?
+You look a bit flushed.""",
+5:"""Why do you smear peanut butter on the road? 
+To go with the traffic jam""",
+6:"""What do you call a bear with no teeth?
+A gummy bear.""",
+7:"""Can February March?
+No, but April May!""",
+8:"""Why there is no 'c' in the dark?
+Because you can't see in the dark.""",
+9:"""Knock knock. Who’s there? 
+Closure. Closure who? 
+Closure mouth while you’re chewing!""",
+10:"""Knock knock. Who’s there? 
+Broken pencil. Broken pencil who? 
+Never mind, there’s no point!""",
+11:"""Me: It’s movie night. Are we having any friends over?
+Rick: Ten people are coming. We need thirteen more.
+Me: Why?
+Rick: Because it is a 13+ movie.""",
+12:"""Who needs a day for the fools when you’re surrounded by them all year?""",
+13:"""Why was everyone so tired on April 1st?
+Because they just finished a long 31-day March.""",
+14:"""A man and woman are driving on the same road. They pass each other.
+The woman yells out the window, “PIG!” The man yells out the window, “BITCH!”
+The man rounds next curve.
+Crashes into a HUGE PIG in middle of road, and dies.
+Thought for The Day: If only men would listen....""",
+15:"""Why did the sun skip college?
+It already has a million degrees.""",
+16:"""What did the buffalo say to his son when he left for college?
+Bi-son.""",
+17:"""There are only 10 kinds of people in this world: 
+those who know binary and those who don’t.""",
+18:"""Algorithm: this word is used by programmers when they don't want to explain what they did....""",
+19:"""why do java programmers have to wear glasses?
+because they don't C#(see sharp)""",
+20:"""you think reading is boring, you're doing it wrong""",
+21:"""Roses are red.
+Your blood is too.
+You look like a monkey
+And belong in a zoo.
+Do not worry,
+I'll be there too.
+Not in the cage,
+But laughing at you.""",
+22:"""Girlfriend: "Am I pretty or ugly?"
+Boyfriend: "You're both."
+Girlfriend: "What do you mean?"
+Boyfriend: "You're pretty ugly.""",
+23:"""I realized why they say “love is blind”, because you shine too bright.""",
+24:"""I’m still clueless in deciding who the real copycat is, between you and the rainbow;""",
+25:"""Love is in the air? What about the Oxygen!""",
+26:"""Mirrors don't lie, and lucky for you they don't laugh.""",
+27:"""You look like something I drew with my left hand.""",
+28:"""Your face looks like I drew it with my left hand.""",
+29:"""you are dumb"""
+}

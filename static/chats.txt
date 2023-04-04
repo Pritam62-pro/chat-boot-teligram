@@ -1,0 +1,8 @@
+{"hi" : ["yes!!",f"yes baby{l_emoji()}","hello",f"hi {l_emoji()}","hi",f"{l_emoji()}",f"hello {l_emoji()}","hu"],
+"hello" : ["yes!!",f"yes baby{l_emoji()}","hello",f"hi {l_emoji()}","hi","{l_emoji()}","hello {l_emoji()}","hu"],
+"oi" : ["yes!!","yes baby","what heppand ??","what?","bolo","ki?","hmm","hu "],
+"what are you doing" : ["actually i am alone here\nrunning on a server","I am alone here\nrunning on this server"],
+"what's up" : ["Hey! What’s up with you?","All good here! What about you?","I’m doing well. Thanks for asking!","i am sort of busy, handaling clients you know","Waiting for this rain to come.\nWhat about you?",f"Not much.\nJust thinking about you.{l_emoji()}",f"Busy, but counting down the hours till I see you.{l_emoji()}",f"Wishing you could be sitting next to me.{l_emoji()}",f"hey!! You’ve made my day by asking that{l_emoji()}",f"Feeling cute,\nbut not as cute as you{l_emoji()}"],
+"ki korchis": [f"ei to bose achhi {l_emoji()}{l_emoji()}\ntumi?"]
+}
+

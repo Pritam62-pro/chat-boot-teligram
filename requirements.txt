@@ -1,0 +1,11 @@
+Flask
+openpyxl>=3.0.7
+tqdm
+numpy
+pandas>=1.2.3
+pytz>=2020.1
+openai
+requests
+gunicorn
+app
+Click
